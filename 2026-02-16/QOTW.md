@@ -1,1 +1,13 @@
 # If you were in the winter olympics what sport would you participate in?
+The goat, the greatest sport evah, the masterpiece, the one, the only, the amazing
+
+curling, wow
+
+Now some C code
+
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+  printf("Curling");
+  return 0;
+}

@@ -1,4 +1,4 @@
-# CSE Git Attendance 2025
+# CSE Git Attendance
 
 ## So we can *Git* to know you, and you can *Git* to know Git
 

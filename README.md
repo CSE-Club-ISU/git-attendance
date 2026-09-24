@@ -10,7 +10,7 @@ Welcome to the CSE Club's attendance repository! This is a fun little way to get
 
 1. [Fork and clone this repository](#forking-and-cloning-the-repository).
 2. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
-3. Create a new file inside the folder named `<first>_<last>`
+3. Create a new file inside the folder named `first_last`
 4. In the file, answer the Question of the Week listed in the folder's `README.md`.
 5. [Add, commit, and push](#6-basic-git-commands) your changes to your local fork.
 6. Create a pull request for us to review and merge into the main repository by clicking the "New Pull Request" button in the top

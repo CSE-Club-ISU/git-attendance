@@ -34,6 +34,7 @@ right corner of the repository.
 
 Follow these steps to setup and get the repository on your local machine. Note, there are no Linux instructions; if you're on Linux, you don't need to
 follow this guide. There are also several hyperlinks to documentation to provide additional context to better your understanding throughout the process.
+Here's a vid if you're not reading all that: https://youtu.be/70tCpNEyR8A
 
 ### 1. Getting a terminal
 

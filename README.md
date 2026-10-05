@@ -103,7 +103,7 @@ In Windows it it usually C:\Users\<Your_Name>\git-attendance-2025.
 In Mac and Linux it is /home/<Your_Name>/git-attendence-2025.
 
 4. Find the folder named by the date of the meeting you're attending (e.g. `2025-09-08`).
-5. Create a new file inside the folder named `<first>_<last>`
+5. Create a new file inside that week's folder named `<first>_<last>` (your name).
 6. In the file, answer the Question of the Week listed in the folder's `README.md`.
 
 ## 6. Basic Git Commands
